@@ -72,3 +72,8 @@ O relatório em PDF (`Functions_Imobiliaria.pdf`) contém:
 * Códigos das funções desenvolvidas.
 * Comandos de teste (`SELECT`) utilizados.
 * Resultados obtidos após a execução.
+Na pasta `screenshots/`, estão as imagens com:
+
+* Criação das funções.
+* Execução com os parâmetros de entrada.
+* Resultados retornados pelas funções.
